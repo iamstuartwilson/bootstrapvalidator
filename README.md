@@ -1,2 +1,1 @@
-# bootstrapvalidator
-For anyone who want to use the previous version and Bower supported
+This repository is for anyone who want to use the previous version (named as BootstrapValidator).
