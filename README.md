@@ -4,3 +4,7 @@ Fixes change to the [original repo](https://github.com/nghuuphuoc/bootstrapvalid
 ```
 npm install git://github.com/iamstuartwilson/bootstrapvalidator.git#v0.5.4
 ```
+
+Update
+----
+This is now no longer an issue, as the [original repo](https://github.com/nghuuphuoc/bootstrapvalidator) history was restored.
